@@ -103,6 +103,8 @@ For the trips in November 2025 (lpep_pickup_datetime between '2025-11-01' and '2
 - 8,254
 - 8,421
 
+Answer: **8,007**
+
 
 ## Question 4. Longest trip for each day
 
@@ -115,6 +117,7 @@ Use the pick up time for your calculations.
 - 2025-11-23
 - 2025-11-25
 
+Answer: **2025-11-14** with trip_distance 88.03
 
 ## Question 5. Biggest pickup zone
 
@@ -125,6 +128,7 @@ Which was the pickup zone with the largest `total_amount` (sum of all trips) on 
 - Morningside Heights
 - Forest Hills
 
+Answer : **East Harlem North**
 
 ## Question 6. Largest tip
 
@@ -136,6 +140,8 @@ Note: it's `tip` , not `trip`. We need the name of the zone, not the ID.
 - Yorkville West
 - East Harlem North
 - LaGuardia Airport
+
+Answer: **Yorkville West** with the largest tip_amount = $81.89
 
 
 ## Terraform
