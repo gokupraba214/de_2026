@@ -6,8 +6,8 @@ Question 2 ✅ <br>
 Question 3 ✅ <br>
 Question 4 ✅ <br>
 Question 5 ✅ <br>
-Question 6 <br>
-Question 7 <br>
+Question 6 ✅ <br>
+Question 7 ✅ <br>
 
 <br>Due Date: 27 January 2026
 
