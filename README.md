@@ -12,12 +12,34 @@ Question 7 ✅ <br>
 <br>Due Date: 27 January 2026
 
 ## Homework 2: Workflow Orchestration
+Question 1 ✅ <br>
+Question 2 ✅ <br>
+Question 3 ✅ <br>
+Question 4 ✅ <br>
+Question 5 ✅ <br>
+Question 6 ✅ <br>
 <br>Due Date: 3 February 2026
 
 ## Homework 3: Data Warehousing
+Question 1 <br>
+Question 2 <br>
+Question 3 <br>
+Question 4 <br>
+Question 5 <br>
+Question 6 <br>
+Question 7 <br>
+Question 8 <br>
+Question 9 <br>
 <br>Due Date: 10 February 2026
 
 ## Homework 4: Analytics Engineering
+Question 1 <br>
+Question 2 <br>
+Question 3 <br>
+Question 4 <br>
+Question 5 <br>
+Question 6 <br>
+Question 7 <br>
 <br>Due Date: 17 February 2026
 
 ## Homework 5: Data Platforms
@@ -27,7 +49,19 @@ Question 7 ✅ <br>
 <br>Due Date: 3 March 2026
 
 ## Homework 6: Batch
+Question 1 <br>
+Question 2 <br>
+Question 3 <br>
+Question 4 <br>
+Question 5 <br>
+Question 6 <br>
 <br>Due Date: 10 March 2026
 
 ## Homework 7: Streaming
+Question 1 <br>
+Question 2 <br>
+Question 3 <br>
+Question 4 <br>
+Question 5 <br>
+Question 6 <br>
 <br>Due Date: 17 March 2026
