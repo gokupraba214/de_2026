@@ -21,15 +21,15 @@ Question 6 ✅ <br>
 <br>Due Date: 3 February 2026
 
 ## Homework 3: Data Warehousing
-Question 1 <br>
-Question 2 <br>
-Question 3 <br>
-Question 4 <br>
-Question 5 <br>
-Question 6 <br>
-Question 7 <br>
-Question 8 <br>
-Question 9 <br>
+Question 1 ✅ <br>
+Question 2 ✅ <br>
+Question 3 ✅ <br>
+Question 4 ✅ <br>
+Question 5 ✅ <br>
+Question 6 ✅ <br>
+Question 7 ✅ <br>
+Question 8 ✅ <br>
+Question 9 ✅ <br>
 <br>Due Date: 10 February 2026
 
 ## Homework 4: Analytics Engineering
